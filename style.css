@@ -1,0 +1,64 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif; /* Web-safe font with fallback */
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark gray text */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #ffcccb; /* Light red background */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+    line-height: 1.6; /* Improves readability */
+}
+
+/* Recipe title */
+h1 {
+    color: #ff6347; /* Tomato red */
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Section headings */
+h2 {
+    color: #2e8b57; /* Sea green */
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+/* Lists */
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333; /* Dark gray background */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
